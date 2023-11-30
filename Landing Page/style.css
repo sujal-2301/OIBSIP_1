@@ -101,3 +101,25 @@ body {
   background-size: cover;
   transform: translate(-50%, 0);
 }
+
+.main #image1 {
+  height: 420px;
+  width: 290px;
+  position: absolute;
+  left: 5%;
+  top: 25%;
+}
+.main #image2 {
+  height: 200px;
+  width: 250px;
+  position: absolute;
+  right: 25%;
+  top: 17%;
+}
+.main #image3 {
+  height: 260px;
+  width: 260px;
+  position: absolute;
+  right: 10%;
+  bottom: 7%;
+}
